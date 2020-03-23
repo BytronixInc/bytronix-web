@@ -1,3 +1,3 @@
 # bytronix-web
 In this repository we create our website.
-Join us by emailing admin@bytronix.gq!
+Join us by emailing support@bytronix.dev!
