@@ -1,4 +1,4 @@
-<?php
+<?php //файл-загрузчик
 $file = $_GET['file'];
  
 $file_extension = strtolower(substr(strrchr($file,"."),1));
